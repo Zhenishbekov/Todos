@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zhenishbekov/Todos.git/Todos/static/css/main.24784a0d.css",
+    "main.js": "/Zhenishbekov/Todos.git/Todos/static/js/main.6053d132.js",
+    "index.html": "/Zhenishbekov/Todos.git/Todos/index.html",
+    "main.24784a0d.css.map": "/Zhenishbekov/Todos.git/Todos/static/css/main.24784a0d.css.map",
+    "main.6053d132.js.map": "/Zhenishbekov/Todos.git/Todos/static/js/main.6053d132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24784a0d.css",
+    "static/js/main.6053d132.js"
+  ]
+}
